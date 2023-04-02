@@ -30,7 +30,7 @@ export default function Home() {
             </p>
             <p className="py-4">
               <code>
-                i'm a software engineering student based in dortmund, germany
+                i&apos;m a software engineering student based in dortmund, germany
                 specializing in building websites, mobile apps, and everything
                 between.
               </code>
@@ -54,7 +54,7 @@ export default function Home() {
             </code>
             <p className="py-4">
               <code>
-                i'm tobias, a 21-year-old student of software development. at
+                i&apos;m tobias, a 21-year-old student of software development. at
                 the age of 14, i started teaching myself programming. from the
                 beginning, i was fascinated by the ability to solve complex
                 problems and develop innovative solutions through software
@@ -71,7 +71,7 @@ export default function Home() {
             </p>
             <p className="py-2">
               <code>
-                here are a few technologies i’ve been working with recently:
+                here are a few technologies i&rsquo;ve been working with recently:
               </code>
             </p>
             <p className="py-2">
