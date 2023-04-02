@@ -37,7 +37,7 @@ export default function Home() {
               onClick={handleScroll}
               className="btn btn-outline btn-primary"
             >
-              <code className="lowercase">//learn more</code>
+              <code className="lowercase">learn more</code>
             </Link>
           </div>
         </div>
